@@ -1,0 +1,1516 @@
+2025-01-03 11:23:45:INFO:---> This is first time setup
+2025-01-03 11:23:45:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:23:51:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:23:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:24:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:24:14:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:24:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:24:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:51:47:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:52:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 11:52:34:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:08:55:INFO:--->  Driver setup successfully
+2025-01-03 12:08:55:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:09:05:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 12:09:08:INFO:---> Vehicle Reg No is: RWP-75-485
+2025-01-03 12:09:14:INFO:---> Vehicle Driver CNIC is: 65238-2847906-6
+2025-01-03 12:09:20:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 12:09:20:INFO:--->  Add Trip form attachments added
+2025-01-03 12:09:23:INFO:--->  Add Trip from data saved
+2025-01-03 12:09:33:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:09:40:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:09:44:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:12:38:INFO:--->  Driver setup successfully
+2025-01-03 12:12:38:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:12:50:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 12:12:52:INFO:---> Vehicle Reg No is: NFX-11-619
+2025-01-03 12:12:58:INFO:---> Vehicle Driver CNIC is: 38587-4821040-1
+2025-01-03 12:13:05:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 12:13:05:INFO:--->  Add Trip form attachments added
+2025-01-03 12:13:08:INFO:--->  Add Trip from data saved
+2025-01-03 12:13:13:INFO:--->  Login page loads successful
+2025-01-03 12:13:17:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:13:21:INFO:--->  Valid Login Test is passed
+2025-01-03 12:13:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:13:28:INFO:--->  Invalid Login Test is passed
+2025-01-03 12:13:31:INFO:---> Setting up driver from 
+2025-01-03 12:13:32:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:13:43:INFO:Setting up Local driver
+2025-01-03 12:13:43:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:13:50:INFO:Setting up Local driver
+2025-01-03 12:13:50:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:13:54:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:14:01:INFO:Setting up Local driver
+2025-01-03 12:14:01:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:16:13:INFO:--->  Driver setup successfully
+2025-01-03 12:16:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:16:15:INFO:---> Captcha TEXT: 497271
+2025-01-03 12:16:25:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 12:16:27:INFO:---> Vehicle Reg No is: KUN-30-146
+2025-01-03 12:16:34:INFO:---> Vehicle Driver CNIC is: 86795-1549859-8
+2025-01-03 12:16:44:INFO:--->  Login page loads successful
+2025-01-03 12:16:47:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:16:49:INFO:---> Captcha TEXT: 21 9 368
+2025-01-03 12:16:51:INFO:--->  Valid Login Test is passed
+2025-01-03 12:16:54:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:16:56:INFO:---> Captcha TEXT: 245118
+2025-01-03 12:16:58:INFO:--->  Invalid Login Test is passed
+2025-01-03 12:17:01:INFO:---> Setting up driver from 
+2025-01-03 12:17:02:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:17:03:INFO:---> Captcha TEXT: 849 88 3
+2025-01-03 12:17:12:INFO:Setting up Local driver
+2025-01-03 12:17:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:17:15:INFO:---> Captcha TEXT: 66 8040
+2025-01-03 12:17:20:INFO:Setting up Local driver
+2025-01-03 12:17:20:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:17:22:INFO:---> Captcha TEXT: 2925 8
+2025-01-03 12:17:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:17:27:INFO:---> Captcha TEXT: 5 51435
+2025-01-03 12:17:32:INFO:Setting up Local driver
+2025-01-03 12:17:32:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:17:34:INFO:---> Captcha TEXT: 33308
+2025-01-03 12:17:37:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:17:38:INFO:---> Captcha TEXT: 0162 31
+2025-01-03 12:19:22:INFO:--->  Driver setup successfully
+2025-01-03 12:19:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:19:24:INFO:---> Captcha TEXT: 68420 1
+2025-01-03 12:19:33:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 12:19:36:INFO:---> Vehicle Reg No is: RJU-86-650
+2025-01-03 12:19:42:INFO:---> Vehicle Driver CNIC is: 13322-8337445-6
+2025-01-03 12:19:49:INFO:--->  Login page loads successful
+2025-01-03 12:19:53:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:19:55:INFO:---> Captcha TEXT: 75 6230
+2025-01-03 12:19:57:INFO:--->  Valid Login Test is passed
+2025-01-03 12:20:00:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:20:02:INFO:---> Captcha TEXT: 793860
+2025-01-03 12:20:04:INFO:--->  Invalid Login Test is passed
+2025-01-03 12:20:07:INFO:---> Setting up driver from 
+2025-01-03 12:20:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:20:09:INFO:---> Captcha TEXT: 582 0 2
+2025-01-03 12:20:11:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:20:13:INFO:---> Captcha TEXT: 578 672
+2025-01-03 12:20:22:INFO:Setting up Local driver
+2025-01-03 12:20:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:20:24:INFO:---> Captcha TEXT: 28 796 9
+2025-01-03 12:20:30:INFO:Setting up Local driver
+2025-01-03 12:20:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:20:34:INFO:---> Captcha TEXT: 872905
+2025-01-03 12:20:39:INFO:Setting up Local driver
+2025-01-03 12:20:40:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:20:41:INFO:---> Captcha TEXT: 367747
+2025-01-03 12:22:05:INFO:--->  Driver setup successfully
+2025-01-03 12:22:05:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:22:07:INFO:---> Captcha TEXT: 697779
+2025-01-03 12:22:16:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 12:22:18:INFO:---> Vehicle Reg No is: XYK-64-050
+2025-01-03 12:22:29:INFO:--->  Login page loads successful
+2025-01-03 12:22:35:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/8a8b13e6fac4c214f52962a9517c21c4/element/f.975DEAACE02AD4E63BEF6FD200B9AC91.d.E4DE0EB56A9AE9F2E0FC14877429D59E.e.5/screenshot
+2025-01-03 12:22:39:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B4C99152B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8a8b13e6fac4c214f52962a9517c21c4/element/f.975DEAACE02AD4E63BEF6FD200B9AC91.d.E4DE0EB56A9AE9F2E0FC14877429D59E.e.5/screenshot
+2025-01-03 12:22:43:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B4C9916CC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8a8b13e6fac4c214f52962a9517c21c4/element/f.975DEAACE02AD4E63BEF6FD200B9AC91.d.E4DE0EB56A9AE9F2E0FC14877429D59E.e.5/screenshot
+2025-01-03 12:22:50:INFO:---> Setting up driver from 
+2025-01-03 12:22:51:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:22:52:INFO:---> Captcha TEXT: 9 0 6 20 1/
+2025-01-03 12:23:38:INFO:--->  Driver setup successfully
+2025-01-03 12:23:38:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:23:40:INFO:---> Captcha TEXT: 3493 7 7
+2025-01-03 12:23:49:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 12:23:51:INFO:---> Vehicle Reg No is: CHP-54-496
+2025-01-03 12:23:58:INFO:---> Vehicle Driver CNIC is: 60174-7042026-4
+2025-01-03 12:24:06:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 12:24:06:INFO:--->  Add Trip form attachments added
+2025-01-03 12:24:09:INFO:--->  Add Trip from data saved
+2025-01-03 12:24:17:INFO:--->  Login page loads successful
+2025-01-03 12:24:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:24:25:INFO:---> Captcha TEXT: 32468 0
+2025-01-03 12:24:27:INFO:--->  Valid Login Test is passed
+2025-01-03 12:24:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:24:32:INFO:---> Captcha TEXT: 29 199
+2025-01-03 12:24:34:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:24:36:INFO:---> Captcha TEXT: 17892 5
+2025-01-03 12:24:38:INFO:--->  Invalid Login Test is passed
+2025-01-03 12:24:41:INFO:---> Setting up driver from 
+2025-01-03 12:24:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:24:43:INFO:---> Captcha TEXT: 461874
+2025-01-03 12:24:52:INFO:Setting up Local driver
+2025-01-03 12:24:52:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:24:54:INFO:---> Captcha TEXT: 21945
+2025-01-03 12:24:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:24:58:INFO:---> Captcha TEXT: 6 6432 8
+2025-01-03 12:25:03:INFO:Setting up Local driver
+2025-01-03 12:25:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:25:05:INFO:---> Captcha TEXT: 53 5 896
+2025-01-03 12:25:11:INFO:Setting up Local driver
+2025-01-03 12:25:11:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:25:13:INFO:---> Captcha TEXT: 4,7 7409 
+2025-01-03 12:25:15:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:25:16:INFO:---> Captcha TEXT: 79188 2
+2025-01-03 12:47:34:INFO:--->  Driver setup successfully
+2025-01-03 12:47:35:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:47:36:INFO:---> Captcha TEXT: 091 66 7
+2025-01-03 12:47:45:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 12:47:48:INFO:---> Vehicle Reg No is: ZDC-61-409
+2025-01-03 12:47:54:INFO:---> Vehicle Driver CNIC is: 18345-5444293-8
+2025-01-03 12:53:44:INFO:--->  Driver setup successfully
+2025-01-03 12:53:44:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 12:53:46:INFO:---> Captcha TEXT: 116832
+2025-01-03 12:53:55:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 12:53:57:INFO:---> Vehicle Reg No is: GLT-65-529
+2025-01-03 14:49:37:INFO:--->  Driver setup successfully
+2025-01-03 14:49:37:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 14:49:39:INFO:---> Captcha TEXT: 802 187
+2025-01-03 14:49:48:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 14:49:50:INFO:---> Vehicle Reg No is: CAU-59-319
+2025-01-03 14:49:57:INFO:---> Vehicle Driver CNIC is: 72529-8855941-8
+2025-01-03 14:57:49:INFO:--->  Driver setup successfully
+2025-01-03 14:57:49:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 14:57:51:INFO:---> Captcha TEXT: 582 828
+2025-01-03 14:58:02:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 14:58:05:INFO:---> Vehicle Reg No is: WZX-63-034
+2025-01-03 14:58:11:INFO:---> Vehicle Driver CNIC is: 66605-5261143-9
+2025-01-03 14:58:17:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 14:58:18:INFO:--->  Add Trip form attachments added
+2025-01-03 14:58:20:INFO:--->  Add Trip from data saved
+2025-01-03 15:31:15:INFO:--->  Driver setup successfully
+2025-01-03 15:31:19:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:31:21:INFO:---> Captcha TEXT: 228'7 5 0
+2025-01-03 15:31:24:INFO:---> Captcha was incorrect
+2025-01-03 15:31:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:31:26:INFO:---> Captcha TEXT: 542'982
+2025-01-03 15:31:28:INFO:---> Captcha was incorrect
+2025-01-03 15:31:28:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:31:30:INFO:---> Captcha TEXT: 720366
+2025-01-03 15:31:39:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 15:31:41:INFO:---> Vehicle Reg No is: RPQ-36-758
+2025-01-03 15:32:41:INFO:--->  Driver setup successfully
+2025-01-03 15:32:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:32:43:INFO:---> Captcha TEXT: 31 945'0
+2025-01-03 15:32:46:INFO:---> Captcha was incorrect
+2025-01-03 15:32:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:32:48:INFO:---> Captcha TEXT: 5 590 4
+2025-01-03 15:32:50:INFO:---> Captcha was incorrect
+2025-01-03 15:32:51:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:32:52:INFO:---> Captcha TEXT: 528478
+2025-01-03 15:33:01:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 15:33:04:INFO:---> Vehicle Reg No is: HEY-25-761
+2025-01-03 15:34:06:INFO:--->  Driver setup successfully
+2025-01-03 15:34:06:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:34:08:INFO:---> Captcha TEXT: 006 731
+2025-01-03 15:34:17:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 15:34:19:INFO:---> Vehicle Reg No is: YPM-33-813
+2025-01-03 15:34:27:INFO:---> Vehicle Driver CNIC is: 34071-7775362-4
+2025-01-03 15:34:34:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 15:34:34:INFO:--->  Add Trip form attachments added
+2025-01-03 15:34:37:INFO:--->  Add Trip from data saved
+2025-01-03 15:45:56:INFO:--->  Driver setup successfully
+2025-01-03 15:45:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:45:58:INFO:---> Captcha TEXT: 12 95 2
+2025-01-03 15:46:00:INFO:---> Captcha was incorrect
+2025-01-03 15:46:00:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:46:02:INFO:---> Captcha TEXT: 5 01443
+2025-01-03 15:46:11:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 15:46:13:INFO:---> Vehicle Reg No is: BJF-77-199
+2025-01-03 15:46:21:INFO:---> Vehicle Driver CNIC is: 23734-4588292-0
+2025-01-03 15:46:32:INFO:--->  Login page loads successful
+2025-01-03 15:46:36:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:46:38:INFO:---> Captcha TEXT: 37282 8
+2025-01-03 15:46:41:INFO:--->  Valid Login Test is passed
+2025-01-03 15:46:44:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:46:46:INFO:---> Captcha TEXT: 7286 83
+2025-01-03 15:46:49:INFO:--->  Invalid Login Test is passed
+2025-01-03 15:46:52:INFO:---> Setting up driver from 
+2025-01-03 15:46:52:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:46:54:INFO:---> Captcha TEXT: 04 6928 
+2025-01-03 15:47:03:INFO:Setting up Local driver
+2025-01-03 15:47:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:47:06:INFO:---> Captcha TEXT: 05 9 920
+2025-01-03 15:47:11:INFO:Setting up Local driver
+2025-01-03 15:47:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:47:16:INFO:---> Captcha TEXT: 48490 5
+2025-01-03 15:47:22:INFO:Setting up Local driver
+2025-01-03 15:47:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:47:24:INFO:---> Captcha TEXT: 227183
+2025-01-03 15:49:55:INFO:--->  Driver setup successfully
+2025-01-03 15:49:55:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:49:57:INFO:---> Captcha TEXT: 77200 0
+2025-01-03 15:50:11:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 15:50:13:INFO:---> Vehicle Reg No is: LOQ-29-132
+2025-01-03 15:50:21:INFO:---> Vehicle Driver CNIC is: 60352-4052280-8
+2025-01-03 15:50:31:INFO:---> Setting up driver from 
+2025-01-03 15:50:31:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:50:33:INFO:---> Captcha TEXT: 862492
+2025-01-03 15:50:43:INFO:Setting up Local driver
+2025-01-03 15:50:43:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:50:45:INFO:---> Captcha TEXT: 41735 0
+2025-01-03 15:50:48:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:50:50:INFO:---> Captcha TEXT: 638587
+2025-01-03 15:50:56:INFO:Setting up Local driver
+2025-01-03 15:50:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:50:58:INFO:---> Captcha TEXT: 138 948
+2025-01-03 15:51:06:INFO:Setting up Local driver
+2025-01-03 15:51:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:51:09:INFO:---> Captcha TEXT: 333477
+2025-01-03 15:57:35:INFO:--->  Driver setup successfully
+2025-01-03 15:57:36:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:57:38:INFO:---> Captcha TEXT: 2 1232
+2025-01-03 15:57:40:INFO:---> Captcha was incorrect
+2025-01-03 15:57:40:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:57:42:INFO:---> Captcha TEXT: 620 88 9
+2025-01-03 15:57:51:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 15:57:53:INFO:---> Vehicle Reg No is: LXI-17-721
+2025-01-03 15:58:01:INFO:---> Vehicle Driver CNIC is: 93920-4671439-3
+2025-01-03 15:58:07:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 15:58:07:INFO:--->  Add Trip form attachments added
+2025-01-03 15:58:09:INFO:--->  Add Trip from data saved
+2025-01-03 15:58:14:INFO:---> Setting up driver from 
+2025-01-03 15:58:14:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:58:17:INFO:---> Captcha TEXT: 972874
+2025-01-03 15:58:41:INFO:--->  Driver setup successfully
+2025-01-03 15:58:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:58:43:INFO:---> Captcha TEXT: 2909 88
+2025-01-03 15:58:53:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 15:58:55:INFO:---> Vehicle Reg No is: CKJ-50-860
+2025-01-03 15:59:03:INFO:---> Vehicle Driver CNIC is: 42130-4689069-4
+2025-01-03 15:59:13:INFO:---> Setting up driver from 
+2025-01-03 15:59:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:59:15:INFO:---> Captcha TEXT: 1934 35
+2025-01-03 15:59:43:INFO:--->  Driver setup successfully
+2025-01-03 15:59:43:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:59:45:INFO:---> Captcha TEXT: 07'5887
+2025-01-03 15:59:47:INFO:---> Captcha was incorrect
+2025-01-03 15:59:48:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 15:59:49:INFO:---> Captcha TEXT: 5 5 1236
+2025-01-03 15:59:58:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:00:00:INFO:---> Vehicle Reg No is: EID-28-400
+2025-01-03 16:00:08:INFO:---> Vehicle Driver CNIC is: 60994-5305427-3
+2025-01-03 16:00:18:INFO:---> Setting up driver from 
+2025-01-03 16:00:18:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:00:20:INFO:---> Captcha TEXT: 6 8 707 9
+2025-01-03 16:01:09:INFO:--->  Driver setup successfully
+2025-01-03 16:01:09:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:01:11:INFO:---> Captcha TEXT: 419 19 35
+2025-01-03 16:01:14:INFO:---> Captcha was incorrect
+2025-01-03 16:01:14:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:01:16:INFO:---> Captcha TEXT: 16498 5
+2025-01-03 16:01:24:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:01:26:INFO:---> Vehicle Reg No is: QTJ-77-030
+2025-01-03 16:01:34:INFO:---> Vehicle Driver CNIC is: 07049-6540844-0
+2025-01-03 16:01:44:INFO:---> Setting up driver from 
+2025-01-03 16:01:45:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:01:47:INFO:---> Captcha TEXT: 125973
+2025-01-03 16:02:27:INFO:--->  Driver setup successfully
+2025-01-03 16:02:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:02:29:INFO:---> Captcha TEXT: 839945
+2025-01-03 16:02:38:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:02:40:INFO:---> Vehicle Reg No is: YEH-45-853
+2025-01-03 16:02:48:INFO:---> Vehicle Driver CNIC is: 86162-9810071-5
+2025-01-03 16:02:56:INFO:---> Setting up driver from 
+2025-01-03 16:02:57:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:02:59:INFO:---> Captcha TEXT: 331211
+2025-01-03 16:03:58:INFO:--->  Driver setup successfully
+2025-01-03 16:03:58:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:04:00:INFO:---> Captcha TEXT: 00 1 99 4
+2025-01-03 16:04:09:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:04:12:INFO:---> Vehicle Reg No is: VYI-20-461
+2025-01-03 16:04:20:INFO:---> Vehicle Driver CNIC is: 75718-0026016-2
+2025-01-03 16:04:30:INFO:---> Setting up driver from 
+2025-01-03 16:04:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:07:28:INFO:--->  Driver setup successfully
+2025-01-03 16:07:28:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:07:30:INFO:---> Captcha TEXT: 72926 7
+2025-01-03 16:07:38:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:07:41:INFO:---> Vehicle Reg No is: TKR-61-016
+2025-01-03 16:07:49:INFO:---> Vehicle Driver CNIC is: 57244-8033169-1
+2025-01-03 16:07:58:INFO:---> Setting up driver from 
+2025-01-03 16:07:59:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/90905295783f7f960f568c03b6e560cb/element/f.D769C39A19EF4E11D87060E4B87C5DE3.d.BDF1EA7193F605A5EC3FC9E2629F101A.e.5/screenshot
+2025-01-03 16:08:03:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A92D75F620>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/90905295783f7f960f568c03b6e560cb/element/f.D769C39A19EF4E11D87060E4B87C5DE3.d.BDF1EA7193F605A5EC3FC9E2629F101A.e.5/screenshot
+2025-01-03 16:08:07:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A92D75F9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/90905295783f7f960f568c03b6e560cb/element/f.D769C39A19EF4E11D87060E4B87C5DE3.d.BDF1EA7193F605A5EC3FC9E2629F101A.e.5/screenshot
+2025-01-03 16:09:24:INFO:--->  Driver setup successfully
+2025-01-03 16:09:25:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:09:26:INFO:---> Captcha TEXT: 937515
+2025-01-03 16:09:36:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:09:38:INFO:---> Vehicle Reg No is: RPR-03-819
+2025-01-03 16:09:46:INFO:---> Vehicle Driver CNIC is: 82270-4725318-7
+2025-01-03 16:09:57:INFO:---> Setting up driver from 
+2025-01-03 16:09:57:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:09:59:INFO:---> Captcha TEXT: 420 26 0
+2025-01-03 16:10:23:INFO:--->  Driver setup successfully
+2025-01-03 16:10:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:10:25:INFO:---> Captcha TEXT: 357923
+2025-01-03 16:10:34:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:10:36:INFO:---> Vehicle Reg No is: CML-01-624
+2025-01-03 16:10:44:INFO:---> Vehicle Driver CNIC is: 03490-9021224-0
+2025-01-03 16:10:53:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 16:10:53:INFO:--->  Add Trip form attachments added
+2025-01-03 16:10:55:INFO:--->  Add Trip from data saved
+2025-01-03 16:11:00:INFO:---> Setting up driver from 
+2025-01-03 16:11:00:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:11:03:INFO:---> Captcha TEXT: 7 86748
+2025-01-03 16:11:14:INFO:--->  Driver setup successfully
+2025-01-03 16:11:14:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:11:16:INFO:---> Captcha TEXT: 71475 8
+2025-01-03 16:11:25:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:11:27:INFO:---> Vehicle Reg No is: ILX-20-590
+2025-01-03 16:11:35:INFO:---> Vehicle Driver CNIC is: 26194-9975954-3
+2025-01-03 16:11:44:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 16:11:44:INFO:--->  Add Trip form attachments added
+2025-01-03 16:11:47:INFO:--->  Add Trip from data saved
+2025-01-03 16:11:52:INFO:---> Setting up driver from 
+2025-01-03 16:11:52:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:11:54:INFO:---> Captcha TEXT: 058291
+2025-01-03 16:12:04:INFO:Setting up Local driver
+2025-01-03 16:12:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:12:06:INFO:---> Captcha TEXT: 764227
+2025-01-03 16:12:12:INFO:Setting up Local driver
+2025-01-03 16:12:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:12:14:INFO:---> Captcha TEXT: 05 6 86 7
+2025-01-03 16:12:20:INFO:Setting up Local driver
+2025-01-03 16:12:20:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:12:26:INFO:---> Captcha TEXT: 54032 6
+2025-01-03 16:21:16:INFO:--->  Driver setup successfully
+2025-01-03 16:21:17:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:21:19:INFO:---> Captcha TEXT: 90 348
+2025-01-03 16:21:22:INFO:---> Captcha was incorrect
+2025-01-03 16:21:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:21:25:INFO:---> Captcha TEXT: 080 4 9 9
+2025-01-03 16:21:33:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:21:36:INFO:---> Vehicle Reg No is: ZMC-42-720
+2025-01-03 16:21:44:INFO:---> Vehicle Driver CNIC is: 50161-6561073-2
+2025-01-03 16:26:22:INFO:--->  Driver setup successfully
+2025-01-03 16:26:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:26:24:INFO:---> Captcha TEXT: 976 810
+2025-01-03 16:26:36:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:26:38:INFO:---> Vehicle Reg No is: QOG-43-871
+2025-01-03 16:26:46:INFO:---> Vehicle Driver CNIC is: 65679-1484016-7
+2025-01-03 16:27:43:INFO:--->  Driver setup successfully
+2025-01-03 16:27:43:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:27:45:INFO:---> Captcha TEXT: 759 796
+2025-01-03 16:27:54:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:27:56:INFO:---> Vehicle Reg No is: GIO-09-603
+2025-01-03 16:28:04:INFO:---> Vehicle Driver CNIC is: 34570-4570031-1
+2025-01-03 16:30:04:INFO:--->  Driver setup successfully
+2025-01-03 16:30:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:30:06:INFO:---> Captcha TEXT: 86 1080
+2025-01-03 16:30:15:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:30:17:INFO:---> Vehicle Reg No is: USU-96-588
+2025-01-03 16:30:25:INFO:---> Vehicle Driver CNIC is: 50479-8596723-0
+2025-01-03 16:31:38:INFO:--->  Driver setup successfully
+2025-01-03 16:31:38:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:31:40:INFO:---> Captcha TEXT: 526 6 5 4
+2025-01-03 16:31:49:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:31:51:INFO:---> Vehicle Reg No is: DYF-95-861
+2025-01-03 16:31:59:INFO:---> Vehicle Driver CNIC is: 47271-6030979-2
+2025-01-03 16:33:48:INFO:--->  Driver setup successfully
+2025-01-03 16:33:48:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:33:50:INFO:---> Captcha TEXT: 902578
+2025-01-03 16:33:59:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:34:01:INFO:---> Vehicle Reg No is: IXN-53-513
+2025-01-03 16:34:53:INFO:--->  Driver setup successfully
+2025-01-03 16:34:53:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:34:55:INFO:---> Captcha TEXT: 21 854 1
+2025-01-03 16:35:03:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:35:06:INFO:---> Vehicle Reg No is: VXM-98-502
+2025-01-03 16:35:14:INFO:---> Vehicle Driver CNIC is: 78347-7285190-1
+2025-01-03 16:35:26:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 16:35:26:INFO:--->  Add Trip form attachments added
+2025-01-03 16:35:29:INFO:--->  Add Trip from data saved
+2025-01-03 16:47:05:INFO:--->  Driver setup successfully
+2025-01-03 16:47:05:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:47:07:INFO:---> Captcha TEXT: 9 88733
+2025-01-03 16:47:16:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:47:18:INFO:---> Vehicle Reg No is: ZFS-67-694
+2025-01-03 16:47:26:INFO:---> Vehicle Driver CNIC is: 85478-6608869-3
+2025-01-03 16:48:43:INFO:--->  Driver setup successfully
+2025-01-03 16:48:43:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 16:48:45:INFO:---> Captcha TEXT: 046396
+2025-01-03 16:48:54:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 16:48:56:INFO:---> Vehicle Reg No is: DYQ-73-477
+2025-01-03 16:49:04:INFO:---> Vehicle Driver CNIC is: 71257-9501997-2
+2025-01-03 16:49:14:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 16:49:14:INFO:--->  Add Trip form attachments added
+2025-01-03 16:49:17:INFO:--->  Add Trip from data saved
+2025-01-03 17:08:25:INFO:--->  Driver setup successfully
+2025-01-03 17:08:28:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:08:30:INFO:---> Captcha TEXT: 704247
+2025-01-03 17:08:39:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 17:08:41:INFO:---> Vehicle Reg No is: KQN-58-104
+2025-01-03 17:08:49:INFO:---> Vehicle Driver CNIC is: 79361-4144145-4
+2025-01-03 17:08:58:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 17:08:58:INFO:--->  Add Trip form attachments added
+2025-01-03 17:09:02:INFO:--->  Add Trip from data saved
+2025-01-03 17:09:07:INFO:---> Setting up driver from 
+2025-01-03 17:09:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:09:09:INFO:---> Captcha TEXT: 93420(0
+2025-01-03 17:09:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:09:14:INFO:---> Captcha TEXT: 456220
+2025-01-03 17:09:23:INFO:Setting up Local driver
+2025-01-03 17:09:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:09:25:INFO:---> Captcha TEXT: 1674 84
+2025-01-03 17:09:30:INFO:Setting up Local driver
+2025-01-03 17:09:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:09:34:INFO:---> Captcha TEXT: 9 9 9 6 5 9
+2025-01-03 17:09:41:INFO:Setting up Local driver
+2025-01-03 17:09:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:09:43:INFO:---> Captcha TEXT: 25807c
+2025-01-03 17:09:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:09:47:INFO:---> Captcha TEXT: 130876
+2025-01-03 17:10:22:INFO:--->  Driver setup successfully
+2025-01-03 17:10:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:10:24:INFO:---> Captcha TEXT: 36 25593
+2025-01-03 17:10:27:INFO:---> Captcha was incorrect
+2025-01-03 17:10:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:10:29:INFO:---> Captcha TEXT: 08081 4
+2025-01-03 17:11:00:INFO:--->  Driver setup successfully
+2025-01-03 17:11:00:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:11:02:INFO:---> Captcha TEXT: 6302 3 3
+2025-01-03 17:14:24:INFO:--->  Driver setup successfully
+2025-01-03 17:14:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:18:08:INFO:--->  Driver setup successfully
+2025-01-03 17:18:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:18:10:INFO:---> Captcha TEXT: 74272
+2025-01-03 17:18:12:INFO:---> Captcha was incorrect
+2025-01-03 17:18:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 17:18:14:INFO:---> Captcha TEXT: 106372
+2025-01-03 17:18:23:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 17:18:29:INFO:---> Setting up driver from 
+2025-01-03 18:22:08:INFO:--->  Driver setup successfully
+2025-01-03 18:22:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 18:22:10:INFO:---> Captcha TEXT: 434086
+2025-01-03 18:22:22:INFO:---> Setting up driver from 
+2025-01-03 18:22:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 18:22:42:INFO:--->  Driver setup successfully
+2025-01-03 18:22:42:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 18:22:44:INFO:---> Captcha TEXT: 403425
+2025-01-03 18:22:53:INFO:--->  Attempting to fill Add Trip form
+2025-01-03 18:22:55:INFO:---> Vehicle Reg No is: ILK-91-904
+2025-01-03 18:23:03:INFO:---> Vehicle Driver CNIC is: 41396-4731229-1
+2025-01-03 18:23:13:INFO:--->  Add Trip form was filled without attachments
+2025-01-03 18:23:13:INFO:--->  Add Trip form attachments added
+2025-01-03 18:23:16:INFO:--->  Add Trip from data saved
+2025-01-03 18:23:21:INFO:---> Setting up driver from 
+2025-01-03 18:23:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 18:23:24:INFO:---> Captcha TEXT: 83217 8
+2025-01-03 18:23:33:INFO:Setting up Local driver
+2025-01-03 18:23:33:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 18:23:35:INFO:---> Captcha TEXT: 6 0 2722
+2025-01-03 18:23:41:INFO:Setting up Local driver
+2025-01-03 18:23:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 18:23:43:INFO:---> Captcha TEXT: 921309
+2025-01-03 18:23:48:INFO:Setting up Local driver
+2025-01-03 18:23:49:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-03 18:23:50:INFO:---> Captcha TEXT: 6 755 6 1
+2025-01-04 01:09:10:INFO:--->  Driver setup successfully
+2025-01-04 01:09:10:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:09:12:INFO:---> Captcha TEXT: 47752 6
+2025-01-04 01:09:51:INFO:--->  Driver setup successfully
+2025-01-04 01:09:51:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:09:53:INFO:---> Captcha TEXT: 09 80'6
+2025-01-04 01:09:55:INFO:---> Captcha was incorrect
+2025-01-04 01:09:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:09:57:INFO:---> Captcha TEXT: 168703
+2025-01-04 01:10:06:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 01:10:08:INFO:---> Vehicle Reg No is: YPD-89-683
+2025-01-04 01:10:16:INFO:---> Vehicle Driver CNIC is: 95625-5290022-7
+2025-01-04 01:10:29:INFO:---> Setting up driver from 
+2025-01-04 01:10:29:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:10:31:INFO:---> Captcha TEXT: 165365
+2025-01-04 01:10:46:INFO:Setting up Local driver
+2025-01-04 01:10:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:10:48:INFO:---> Captcha TEXT: 0 84'9 73
+2025-01-04 01:10:50:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:10:52:INFO:---> Captcha TEXT: 745 2 .3 1
+2025-01-04 01:10:54:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:10:56:INFO:---> Captcha TEXT: 904 93 6
+2025-01-04 01:11:04:INFO:Setting up Local driver
+2025-01-04 01:11:05:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:11:06:INFO:---> Captcha TEXT: 1 9 6 561
+2025-01-04 01:11:09:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 01:11:10:INFO:---> Captcha TEXT: 2 61328
+2025-01-04 12:38:43:INFO:--->  Driver setup successfully
+2025-01-04 12:38:43:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:38:46:INFO:---> Captcha TEXT: 6 4 8 "324
+2025-01-04 12:38:48:INFO:---> Captcha was incorrect
+2025-01-04 12:38:49:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:38:51:INFO:---> Captcha TEXT: 904202
+2025-01-04 12:39:00:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 12:39:02:INFO:---> Vehicle Reg No is: TYQ-14-604
+2025-01-04 12:39:10:INFO:---> Vehicle Driver CNIC is: 53656-1257830-7
+2025-01-04 12:39:25:INFO:---> Setting up driver from 
+2025-01-04 12:39:25:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:39:27:INFO:---> Captcha TEXT: 935360
+2025-01-04 12:39:39:INFO:Setting up Local driver
+2025-01-04 12:39:40:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:39:42:INFO:---> Captcha TEXT: 044652
+2025-01-04 12:44:07:INFO:--->  Driver setup successfully
+2025-01-04 12:44:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:44:09:INFO:---> Captcha TEXT: 5 01114
+2025-01-04 12:44:19:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 12:44:21:INFO:---> Vehicle Reg No is: UUZ-55-336
+2025-01-04 12:44:29:INFO:---> Vehicle Driver CNIC is: 42089-6853266-6
+2025-01-04 12:44:42:INFO:---> Setting up driver from 
+2025-01-04 12:44:42:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:44:44:INFO:---> Captcha TEXT: 879516
+2025-01-04 12:47:30:INFO:--->  Driver setup successfully
+2025-01-04 12:47:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:47:32:INFO:---> Captcha TEXT: 843892
+2025-01-04 12:47:41:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 12:47:43:INFO:---> Vehicle Reg No is: UVR-22-081
+2025-01-04 12:47:51:INFO:---> Vehicle Driver CNIC is: 60833-9523653-4
+2025-01-04 12:48:00:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 12:48:01:INFO:--->  Add Trip form attachments added
+2025-01-04 12:48:04:INFO:--->  Add Trip from data saved
+2025-01-04 12:48:13:INFO:---> Setting up driver from 
+2025-01-04 12:48:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:48:15:INFO:---> Captcha TEXT: 9 825 42
+2025-01-04 12:48:28:INFO:Setting up Local driver
+2025-01-04 12:48:28:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:48:30:INFO:---> Captcha TEXT: 42076 1
+2025-01-04 12:48:40:INFO:Setting up Local driver
+2025-01-04 12:48:40:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:48:42:INFO:---> Captcha TEXT: 1355 3 9
+2025-01-04 12:49:15:INFO:Setting up Local driver
+2025-01-04 12:49:15:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:49:21:INFO:---> Captcha TEXT: 074967
+2025-01-04 12:53:01:INFO:--->  Driver setup successfully
+2025-01-04 12:53:02:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:53:04:INFO:---> Captcha TEXT: 10979'6
+2025-01-04 12:53:06:INFO:---> Captcha was incorrect
+2025-01-04 12:53:06:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:53:08:INFO:---> Captcha TEXT: 4233 5
+2025-01-04 12:53:10:INFO:---> Captcha was incorrect
+2025-01-04 12:53:10:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:53:12:INFO:---> Captcha TEXT: 2   61353
+2025-01-04 12:53:14:INFO:---> Captcha was incorrect
+2025-01-04 12:53:15:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:53:17:INFO:---> Captcha TEXT: 6964 0 6
+2025-01-04 12:53:26:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 12:53:28:INFO:---> Vehicle Reg No is: XPV-35-514
+2025-01-04 12:53:36:INFO:---> Vehicle Driver CNIC is: 62997-3489770-2
+2025-01-04 12:53:42:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 12:53:42:INFO:--->  Add Trip form attachments added
+2025-01-04 12:53:46:INFO:--->  Add Trip from data saved
+2025-01-04 12:54:00:INFO:---> Setting up driver from 
+2025-01-04 12:54:01:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:54:02:INFO:---> Captcha TEXT: 376 339
+2025-01-04 12:54:19:INFO:Setting up Local driver
+2025-01-04 12:54:19:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:54:21:INFO:---> Captcha TEXT: 169326
+2025-01-04 12:54:31:INFO:Setting up Local driver
+2025-01-04 12:54:32:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:54:33:INFO:---> Captcha TEXT: 943470
+2025-01-04 12:54:48:INFO:Setting up Local driver
+2025-01-04 12:54:48:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:54:50:INFO:---> Captcha TEXT: 605 69
+2025-01-04 12:54:52:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:54:54:INFO:---> Captcha TEXT: 118 73
+2025-01-04 12:54:57:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 12:54:59:INFO:---> Captcha TEXT: 1395 28
+2025-01-04 14:05:53:INFO:--->  Driver setup successfully
+2025-01-04 14:05:53:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:05:56:INFO:---> Captcha TEXT: 63601 8
+2025-01-04 14:06:05:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 14:06:07:INFO:---> Vehicle Reg No is: OKM-94-644
+2025-01-04 14:06:15:INFO:---> Vehicle Driver CNIC is: 21204-3326229-8
+2025-01-04 14:06:21:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 14:06:21:INFO:--->  Add Trip form attachments added
+2025-01-04 14:06:24:INFO:--->  Add Trip from data saved
+2025-01-04 14:06:33:INFO:---> Setting up driver from 
+2025-01-04 14:06:33:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:06:35:INFO:---> Captcha TEXT: 98 632 1
+2025-01-04 14:06:48:INFO:Setting up Local driver
+2025-01-04 14:06:48:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:06:50:INFO:---> Captcha TEXT: 9910 7 5
+2025-01-04 14:06:58:INFO:Setting up Local driver
+2025-01-04 14:06:58:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:07:02:INFO:---> Captcha TEXT: 400 2 5 9
+2025-01-04 14:07:16:INFO:Setting up Local driver
+2025-01-04 14:07:16:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:07:18:INFO:---> Captcha TEXT: 577344
+2025-01-04 14:07:26:INFO:--->  Driver setup successfully
+2025-01-04 14:07:26:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:07:28:INFO:---> Captcha TEXT: 79 080
+2025-01-04 14:07:30:INFO:---> Captcha was incorrect
+2025-01-04 14:07:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:07:32:INFO:---> Captcha TEXT: 253288
+2025-01-04 14:09:24:INFO:--->  Driver setup successfully
+2025-01-04 14:09:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:09:26:INFO:---> Captcha TEXT: 093582
+2025-01-04 14:09:35:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 14:09:37:INFO:---> Vehicle Reg No is: WPT-04-487
+2025-01-04 14:09:45:INFO:---> Vehicle Driver CNIC is: 34397-9970958-4
+2025-01-04 14:09:52:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 14:09:52:INFO:--->  Add Trip form attachments added
+2025-01-04 14:09:55:INFO:--->  Add Trip from data saved
+2025-01-04 14:10:04:INFO:---> Setting up driver from 
+2025-01-04 14:10:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:10:06:INFO:---> Captcha TEXT: 9220 75
+2025-01-04 14:10:19:INFO:Setting up Local driver
+2025-01-04 14:10:19:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:10:21:INFO:---> Captcha TEXT: 3178 39
+2025-01-04 14:10:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:10:25:INFO:---> Captcha TEXT: 83 8 7 ,8 :
+2025-01-04 14:10:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:10:29:INFO:---> Captcha TEXT: 1890~1
+2025-01-04 14:10:32:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:10:33:INFO:---> Captcha TEXT: 901 011
+2025-01-04 14:10:49:INFO:Setting up Local driver
+2025-01-04 14:10:49:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:10:51:INFO:---> Captcha TEXT: 26050 9
+2025-01-04 14:11:03:INFO:Setting up Local driver
+2025-01-04 14:11:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:11:05:INFO:---> Captcha TEXT: 704283
+2025-01-04 14:11:18:INFO:--->  Driver setup successfully
+2025-01-04 14:11:19:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:11:20:INFO:---> Captcha TEXT: 302998
+2025-01-04 14:13:42:INFO:--->  Driver setup successfully
+2025-01-04 14:13:43:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:13:44:INFO:---> Captcha TEXT: 9 7 98108
+2025-01-04 14:13:47:INFO:---> Captcha was incorrect
+2025-01-04 14:13:47:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:13:49:INFO:---> Captcha TEXT: 346814
+2025-01-04 14:15:11:INFO:--->  Driver setup successfully
+2025-01-04 14:15:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:15:14:INFO:---> Captcha TEXT: 0667.95
+2025-01-04 14:15:16:INFO:---> Captcha was incorrect
+2025-01-04 14:15:16:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:15:18:INFO:---> Captcha TEXT: 912400
+2025-01-04 14:16:49:INFO:--->  Driver setup successfully
+2025-01-04 14:16:50:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:16:52:INFO:---> Captcha TEXT: 282047
+2025-01-04 14:22:36:INFO:--->  Driver setup successfully
+2025-01-04 14:22:36:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:22:38:INFO:---> Captcha TEXT: 695 866
+2025-01-04 14:24:31:INFO:--->  Driver setup successfully
+2025-01-04 14:24:31:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:24:33:INFO:---> Captcha TEXT: 44 076 7
+2025-01-04 14:33:07:INFO:--->  Driver setup successfully
+2025-01-04 14:33:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:33:09:INFO:---> Captcha TEXT: 2788 96
+2025-01-04 14:33:14:INFO:--->  Login was successful
+2025-01-04 14:33:15:INFO:--->  Navigated to view trip page
+2025-01-04 14:33:18:INFO:--->  Driver Name matched successfully
+2025-01-04 14:33:18:INFO:--->  Vehicle Reg no matched successfully
+2025-01-04 14:37:56:INFO:--->  Driver setup successfully
+2025-01-04 14:38:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:38:09:INFO:---> Captcha TEXT: 698468
+2025-01-04 14:38:13:INFO:--->  Login was successful
+2025-01-04 14:38:14:INFO:--->  Navigated to view trip page
+2025-01-04 14:38:17:INFO:--->  Driver Name matched successfully: Julie Richardson
+2025-01-04 14:38:17:INFO:--->  Vehicle Reg no matched successfully: WPT-04-487
+2025-01-04 14:44:27:INFO:--->  Driver setup successfully
+2025-01-04 14:44:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:44:29:INFO:---> Captcha TEXT: 39930 7
+2025-01-04 14:44:50:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 14:44:52:INFO:---> Vehicle Reg No is: KZC-16-087
+2025-01-04 14:45:00:INFO:---> Vehicle Driver CNIC is: 18292-8942591-6
+2025-01-04 14:45:06:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 14:45:07:INFO:--->  Add Trip form attachments added
+2025-01-04 14:45:10:INFO:--->  Add Trip from data saved
+2025-01-04 14:45:35:INFO:---> Setting up driver from 
+2025-01-04 14:45:35:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:45:37:INFO:---> Captcha TEXT: 833125
+2025-01-04 14:45:56:INFO:Setting up Local driver
+2025-01-04 14:45:57:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:45:59:INFO:---> Captcha TEXT: 05468 0
+2025-01-04 14:46:09:INFO:Setting up Local driver
+2025-01-04 14:46:09:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:46:13:INFO:---> Captcha TEXT: 2 1073
+2025-01-04 14:46:16:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:46:17:INFO:---> Captcha TEXT: 0777 97 
+2025-01-04 14:46:29:INFO:Setting up Local driver
+2025-01-04 14:46:29:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:46:31:INFO:---> Captcha TEXT: 452399
+2025-01-04 14:46:40:INFO:--->  Driver setup successfully
+2025-01-04 14:46:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:46:43:INFO:---> Captcha TEXT: 440808
+2025-01-04 14:46:45:INFO:--->  Login was successful
+2025-01-04 14:46:45:INFO:--->  Navigated to view trip page
+2025-01-04 14:53:40:INFO:--->  Driver setup successfully
+2025-01-04 14:53:40:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:53:43:INFO:---> Captcha TEXT: 631 9 `51
+2025-01-04 14:53:45:INFO:---> Captcha was incorrect
+2025-01-04 14:53:45:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:53:47:INFO:---> Captcha TEXT: 0 5420 3
+2025-01-04 14:53:49:INFO:---> Captcha was incorrect
+2025-01-04 14:53:49:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:53:51:INFO:---> Captcha TEXT: 80848 7
+2025-01-04 14:53:54:INFO:--->  Login was successful
+2025-01-04 14:53:54:INFO:--->  Navigated to view trip page
+2025-01-04 14:53:58:INFO:--->  Driver Name matched successfully: Timothy Jones
+2025-01-04 14:53:58:INFO:--->  Vehicle Reg no matched successfully: KZC-16-087
+2025-01-04 14:54:21:INFO:--->  Driver setup successfully
+2025-01-04 14:54:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:54:24:INFO:---> Captcha TEXT: 893665
+2025-01-04 14:54:34:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 14:54:36:INFO:---> Vehicle Reg No is: NRE-27-758
+2025-01-04 14:54:44:INFO:---> Vehicle Driver CNIC is: 06649-5628929-6
+2025-01-04 14:54:50:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 14:54:50:INFO:--->  Add Trip form attachments added
+2025-01-04 14:54:53:INFO:--->  Add Trip from data saved
+2025-01-04 14:55:26:INFO:--->  Driver setup successfully
+2025-01-04 14:55:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:55:29:INFO:---> Captcha TEXT: 07235 4
+2025-01-04 14:55:37:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 14:55:39:INFO:---> Vehicle Reg No is: MUI-62-509
+2025-01-04 14:55:47:INFO:---> Vehicle Driver CNIC is: 04539-8270198-9
+2025-01-04 14:55:53:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 14:55:53:INFO:--->  Add Trip form attachments added
+2025-01-04 14:55:56:INFO:--->  Add Trip from data saved
+2025-01-04 14:56:07:INFO:---> Setting up driver from 
+2025-01-04 14:56:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:56:10:INFO:---> Captcha TEXT: 26349 2
+2025-01-04 14:56:15:INFO:--->  Driver setup successfully
+2025-01-04 14:57:03:INFO:--->  Driver setup successfully
+2025-01-04 14:57:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:57:05:INFO:---> Captcha TEXT: 00 1 8'35
+2025-01-04 14:57:07:INFO:---> Captcha was incorrect
+2025-01-04 14:57:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:57:10:INFO:---> Captcha TEXT: 46 84"23
+2025-01-04 14:57:12:INFO:---> Captcha was incorrect
+2025-01-04 14:57:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:57:14:INFO:---> Captcha TEXT: 228792
+2025-01-04 14:57:23:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 14:57:25:INFO:---> Vehicle Reg No is: TDL-16-027
+2025-01-04 14:57:33:INFO:---> Vehicle Driver CNIC is: 61623-9937766-4
+2025-01-04 14:57:39:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 14:57:39:INFO:--->  Add Trip form attachments added
+2025-01-04 14:57:42:INFO:--->  Add Trip from data saved
+2025-01-04 14:58:16:INFO:---> Setting up driver from 
+2025-01-04 14:58:16:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:58:18:INFO:---> Captcha TEXT: Captcha Image
+2025-01-04 14:58:20:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:58:22:INFO:---> Captcha TEXT: 26 4820
+2025-01-04 14:58:45:INFO:Setting up Local driver
+2025-01-04 14:58:45:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:58:47:INFO:---> Captcha TEXT: 260113
+2025-01-04 14:59:01:INFO:Setting up Local driver
+2025-01-04 14:59:01:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:59:03:INFO:---> Captcha TEXT: 2560 00
+2025-01-04 14:59:12:INFO:Setting up Local driver
+2025-01-04 14:59:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:59:14:INFO:---> Captcha TEXT: 061 374 
+2025-01-04 14:59:25:INFO:--->  Driver setup successfully
+2025-01-04 14:59:25:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:59:27:INFO:---> Captcha TEXT: 66 6222
+2025-01-04 14:59:30:INFO:---> Captcha was incorrect
+2025-01-04 14:59:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 14:59:32:INFO:---> Captcha TEXT: 382 907
+2025-01-04 14:59:35:INFO:--->  Login was successful
+2025-01-04 14:59:35:INFO:--->  Navigated to view trip page
+2025-01-04 15:01:29:INFO:--->  Driver setup successfully
+2025-01-04 15:01:29:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:01:31:INFO:---> Captcha TEXT: 0 9 31 5 7
+2025-01-04 15:01:40:INFO:--->  Attempting to fill Add Trip form
+2025-01-04 15:01:42:INFO:---> Vehicle Reg No is: KNV-92-088
+2025-01-04 15:01:50:INFO:---> Vehicle Driver CNIC is: 78509-3014461-1
+2025-01-04 15:01:56:INFO:--->  Add Trip form was filled without attachments
+2025-01-04 15:01:56:INFO:--->  Add Trip form attachments added
+2025-01-04 15:02:00:INFO:--->  Add Trip from data saved
+2025-01-04 15:02:11:INFO:---> Setting up driver from 
+2025-01-04 15:02:11:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:02:14:INFO:---> Captcha TEXT: 861784
+2025-01-04 15:02:33:INFO:Setting up Local driver
+2025-01-04 15:02:34:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:02:36:INFO:---> Captcha TEXT: 93072 8
+2025-01-04 15:02:54:INFO:Setting up Local driver
+2025-01-04 15:02:55:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:02:57:INFO:---> Captcha TEXT: 7 9 68 8 0
+2025-01-04 15:03:13:INFO:Setting up Local driver
+2025-01-04 15:03:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:03:15:INFO:---> Captcha TEXT: 7 =9996
+2025-01-04 15:03:17:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:03:19:INFO:---> Captcha TEXT: 907145
+2025-01-04 15:03:28:INFO:--->  Driver setup successfully
+2025-01-04 15:03:28:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:03:30:INFO:---> Captcha TEXT: 5 "530 5 5
+2025-01-04 15:03:32:INFO:---> Captcha was incorrect
+2025-01-04 15:03:32:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:03:34:INFO:---> Captcha TEXT: 7 5 '315
+2025-01-04 15:03:36:INFO:---> Captcha was incorrect
+2025-01-04 15:03:36:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:03:38:INFO:---> Captcha TEXT: 415 9 7 5
+2025-01-04 15:03:40:INFO:--->  Login was successful
+2025-01-04 15:03:41:INFO:--->  Navigated to view trip page
+2025-01-04 15:03:48:INFO:--->  Driver Name matched successfully: Sarah Edwards
+2025-01-04 15:03:50:INFO:--->  Vehicle Reg no matched successfully: TDL-16-027
+2025-01-04 15:06:06:INFO:--->  Driver setup successfully
+2025-01-04 15:06:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-04 15:06:09:INFO:---> Captcha TEXT: 33 5 396
+2025-01-04 15:06:13:INFO:--->  Login was successful
+2025-01-04 15:06:14:INFO:--->  Navigated to view trip page
+2025-01-04 15:06:21:INFO:--->  Driver Name matched successfully: Sandra Taylor
+2025-01-04 15:06:23:INFO:--->  Vehicle Reg no matched successfully: KNV-92-088
+2025-01-05 00:27:42:INFO:--->  Driver setup successfully
+2025-01-05 00:27:42:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:27:45:INFO:---> Captcha TEXT: 920120
+2025-01-05 00:27:57:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 00:27:59:INFO:---> Vehicle Reg No is: PKR-27-735
+2025-01-05 00:28:07:INFO:---> Vehicle Driver CNIC is: 29012-6920658-7
+2025-01-05 00:28:13:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 00:28:13:INFO:--->  Add Trip form attachments added
+2025-01-05 00:28:17:INFO:--->  Add Trip from data saved
+2025-01-05 00:28:29:INFO:---> Setting up driver from 
+2025-01-05 00:28:29:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:28:31:INFO:---> Captcha TEXT: 744443
+2025-01-05 00:28:47:INFO:Setting up Local driver
+2025-01-05 00:28:47:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:28:49:INFO:---> Captcha TEXT: 06 " 34
+2025-01-05 00:28:51:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:28:53:INFO:---> Captcha TEXT: 694992 
+2025-01-05 00:30:14:INFO:Setting up Local driver
+2025-01-05 00:30:14:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:30:16:INFO:---> Captcha TEXT: 474 .3132
+2025-01-05 00:30:19:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:30:21:INFO:---> Captcha TEXT: 39450
+2025-01-05 00:30:23:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:30:25:INFO:---> Captcha TEXT: 434193
+2025-01-05 00:30:35:INFO:Setting up Local driver
+2025-01-05 00:30:35:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:30:37:INFO:---> Captcha TEXT: 5 126 6 6
+2025-01-05 00:30:46:INFO:--->  Driver setup successfully
+2025-01-05 00:30:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 00:30:48:INFO:---> Captcha TEXT: 433184
+2025-01-05 00:30:52:INFO:--->  Login was successful
+2025-01-05 00:30:52:INFO:--->  Navigated to view trip page
+2025-01-05 00:31:00:INFO:--->  Driver Name matched successfully: Sandra Taylor
+2025-01-05 00:31:02:INFO:--->  Vehicle Reg no matched successfully: KNV-92-088
+2025-01-05 00:42:55:INFO:--->  Login page loads successful
+2025-01-05 18:06:14:INFO:---> Setting up driver from 
+2025-01-05 18:06:15:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:06:17:INFO:---> Captcha TEXT: 850374
+2025-01-05 18:06:27:INFO:Setting up Local driver
+2025-01-05 18:10:10:INFO:---> Setting up driver from 
+2025-01-05 18:10:10:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:10:12:INFO:---> Captcha TEXT: 990571
+2025-01-05 18:10:19:INFO:Setting up Local driver
+2025-01-05 18:14:20:INFO:---> Setting up driver from 
+2025-01-05 18:14:20:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:14:22:INFO:---> Captcha TEXT: 306605
+2025-01-05 18:14:30:INFO:Setting up Local driver
+2025-01-05 18:14:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:14:32:INFO:---> Captcha TEXT: 328331
+2025-01-05 18:14:37:INFO:Setting up Local driver
+2025-01-05 18:14:37:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:14:39:INFO:---> Captcha TEXT: 907883
+2025-01-05 18:14:44:INFO:Setting up Local driver
+2025-01-05 18:14:44:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:14:46:INFO:---> Captcha TEXT: 11781 3
+2025-01-05 18:15:42:INFO:---> Setting up driver from 
+2025-01-05 18:15:42:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:15:44:INFO:---> Captcha TEXT: 644647
+2025-01-05 18:15:52:INFO:Setting up Local driver
+2025-01-05 18:15:53:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:15:54:INFO:---> Captcha TEXT: 76 0'8 5
+2025-01-05 18:15:57:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:15:58:INFO:---> Captcha TEXT: 153 9 1 5
+2025-01-05 18:16:03:INFO:Setting up Local driver
+2025-01-05 18:16:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:16:05:INFO:---> Captcha TEXT: 7356 2 6
+2025-01-05 18:16:10:INFO:Setting up Local driver
+2025-01-05 18:16:10:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:16:12:INFO:---> Captcha TEXT: 05 4 75 5
+2025-01-05 18:16:38:INFO:--->  Driver setup successfully
+2025-01-05 18:16:38:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:16:40:INFO:---> Captcha TEXT: 2 97731
+2025-01-05 18:16:50:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 18:16:52:INFO:---> Vehicle Reg No is: JED-58-488
+2025-01-05 18:17:00:INFO:---> Vehicle Driver CNIC is: 15734-8391084-7
+2025-01-05 18:17:06:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 18:17:07:INFO:--->  Add Trip form attachments added
+2025-01-05 18:17:10:INFO:--->  Add Trip from data saved
+2025-01-05 18:17:19:INFO:---> Setting up driver from 
+2025-01-05 18:17:19:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:17:21:INFO:---> Captcha TEXT: 9 41244
+2025-01-05 18:17:29:INFO:Setting up Local driver
+2025-01-05 18:17:29:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:17:31:INFO:---> Captcha TEXT: 30   35
+2025-01-05 18:17:33:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:17:35:INFO:---> Captcha TEXT: 643043 
+2025-01-05 18:17:39:INFO:Setting up Local driver
+2025-01-05 18:17:40:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:17:42:INFO:---> Captcha TEXT: 612340
+2025-01-05 18:17:46:INFO:Setting up Local driver
+2025-01-05 18:17:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:17:48:INFO:---> Captcha TEXT: 4 .3990
+2025-01-05 18:17:51:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:17:53:INFO:---> Captcha TEXT: 236754
+2025-01-05 18:18:02:INFO:--->  Driver setup successfully
+2025-01-05 18:18:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:18:05:INFO:---> Captcha TEXT: 53405 1
+2025-01-05 18:18:07:INFO:--->  Login was successful
+2025-01-05 18:18:07:INFO:--->  Navigated to view trip page
+2025-01-05 18:18:15:INFO:--->  Driver Name matched successfully: Amanda Hickman
+2025-01-05 18:18:17:INFO:--->  Vehicle Reg no matched successfully: PKR-27-735
+2025-01-05 18:23:47:INFO:---> Setting up driver from 
+2025-01-05 18:23:47:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:23:49:INFO:---> Captcha TEXT: 178 8 '31
+2025-01-05 18:23:51:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:23:53:INFO:---> Captcha TEXT: 761737
+2025-01-05 18:25:05:INFO:---> Setting up driver from 
+2025-01-05 18:25:06:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:25:07:INFO:---> Captcha TEXT: 9 23495
+2025-01-05 18:25:14:INFO:Driver reloaded
+2025-01-05 18:25:15:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:25:17:INFO:---> Captcha TEXT: 155924
+2025-01-05 18:25:19:INFO:Driver reloaded
+2025-01-05 18:25:20:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:25:22:INFO:---> Captcha TEXT: 80 1768
+2025-01-05 18:25:24:INFO:Driver reloaded
+2025-01-05 18:25:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:25:26:INFO:---> Captcha TEXT: 5195  42
+2025-01-05 18:25:29:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:25:31:INFO:---> Captcha TEXT: 73 9104
+2025-01-05 18:25:45:INFO:---> Setting up driver from 
+2025-01-05 18:25:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:25:47:INFO:---> Captcha TEXT: 86 0721
+2025-01-05 18:25:55:INFO:Driver reloaded
+2025-01-05 18:25:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:25:57:INFO:---> Captcha TEXT: 058434-
+2025-01-05 18:26:00:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:26:02:INFO:---> Captcha TEXT: 95 3 884
+2025-01-05 18:26:04:INFO:Driver reloaded
+2025-01-05 18:26:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:26:06:INFO:---> Captcha TEXT: 35 86 13
+2025-01-05 18:26:09:INFO:Driver reloaded
+2025-01-05 18:26:09:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:26:11:INFO:---> Captcha TEXT: 2836 7
+2025-01-05 18:26:14:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:26:15:INFO:---> Captcha TEXT: 726978
+2025-01-05 18:29:18:INFO:--->  Driver setup successfully
+2025-01-05 18:29:18:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:29:20:INFO:---> Captcha TEXT: 003044
+2025-01-05 18:30:45:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:30:47:INFO:---> Captcha TEXT: 473825
+2025-01-05 18:30:55:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:30:57:INFO:---> Captcha TEXT: 8369 9 1
+2025-01-05 18:31:00:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:31:02:INFO:---> Captcha TEXT: 126371
+2025-01-05 18:31:05:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:31:06:INFO:---> Captcha TEXT: 134228
+2025-01-05 18:31:16:INFO:--->  Driver setup successfully
+2025-01-05 18:31:16:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:31:18:INFO:---> Captcha TEXT: 392907
+2025-01-05 18:31:27:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 18:31:29:INFO:---> Vehicle Reg No is: YDK-25-158
+2025-01-05 18:31:37:INFO:---> Vehicle Driver CNIC is: 04385-1918628-1
+2025-01-05 18:31:43:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 18:31:43:INFO:--->  Add Trip form attachments added
+2025-01-05 18:31:45:INFO:--->  Add Trip from data saved
+2025-01-05 18:31:54:INFO:--->  Driver setup successfully
+2025-01-05 18:31:55:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:31:57:INFO:---> Captcha TEXT: 9 4240
+2025-01-05 18:31:59:INFO:---> Captcha was incorrect
+2025-01-05 18:31:59:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:32:01:INFO:---> Captcha TEXT: 8 8902 5
+2025-01-05 18:32:03:INFO:--->  Login was successful
+2025-01-05 18:32:03:INFO:--->  Navigated to view trip page
+2025-01-05 18:32:53:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:32:55:INFO:---> Captcha TEXT: 424386
+2025-01-05 18:33:02:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:33:04:INFO:---> Captcha TEXT: 239887
+2025-01-05 18:33:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:33:09:INFO:---> Captcha TEXT: 450 906
+2025-01-05 18:33:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:33:14:INFO:---> Captcha TEXT: 05595 3
+2025-01-05 18:33:23:INFO:--->  Driver setup successfully
+2025-01-05 18:33:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:33:25:INFO:---> Captcha TEXT: 06 5 97 5
+2025-01-05 18:33:34:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 18:33:36:INFO:---> Vehicle Reg No is: DZW-12-822
+2025-01-05 18:33:44:INFO:---> Vehicle Driver CNIC is: 87398-9976236-2
+2025-01-05 18:33:50:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 18:33:50:INFO:--->  Add Trip form attachments added
+2025-01-05 18:33:53:INFO:--->  Add Trip from data saved
+2025-01-05 18:34:01:INFO:--->  Driver setup successfully
+2025-01-05 18:34:01:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:34:03:INFO:---> Captcha TEXT: 959305
+2025-01-05 18:34:05:INFO:--->  Login was successful
+2025-01-05 18:34:06:INFO:--->  Navigated to view trip page
+2025-01-05 18:37:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:37:29:INFO:---> Captcha TEXT: 982312
+2025-01-05 18:37:36:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:37:38:INFO:---> Captcha TEXT: 5 66206
+2025-01-05 18:37:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:37:43:INFO:---> Captcha TEXT: 932522
+2025-01-05 18:37:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:37:48:INFO:---> Captcha TEXT: 91 86 1 5
+2025-01-05 18:37:56:INFO:--->  Driver setup successfully
+2025-01-05 18:37:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:37:58:INFO:---> Captcha TEXT: 827042
+2025-01-05 18:38:06:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 18:38:17:INFO:--->  Driver setup successfully
+2025-01-05 18:39:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:39:32:INFO:---> Captcha TEXT: 8361 2
+2025-01-05 18:39:35:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:39:37:INFO:---> Captcha TEXT: 2101 8 7
+2025-01-05 18:39:44:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:39:46:INFO:---> Captcha TEXT: 71930 3
+2025-01-05 18:39:49:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:39:50:INFO:---> Captcha TEXT: 757293
+2025-01-05 18:39:53:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:39:55:INFO:---> Captcha TEXT: 95 5507
+2025-01-05 18:40:04:INFO:--->  Driver setup successfully
+2025-01-05 18:40:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:40:06:INFO:---> Captcha TEXT: 8575 83
+2025-01-05 18:40:14:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 18:40:16:INFO:---> Vehicle Reg No is: NWJ-77-774
+2025-01-05 18:40:24:INFO:---> Vehicle Driver CNIC is: 56540-8207090-9
+2025-01-05 18:40:30:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 18:40:30:INFO:--->  Add Trip form attachments added
+2025-01-05 18:40:34:INFO:--->  Add Trip from data saved
+2025-01-05 18:40:41:INFO:--->  Driver setup successfully
+2025-01-05 18:40:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:40:43:INFO:---> Captcha TEXT: 49679 8
+2025-01-05 18:40:47:INFO:--->  Login was successful
+2025-01-05 18:40:47:INFO:--->  Navigated to view trip page
+2025-01-05 18:49:49:INFO:--->  Driver setup successfully
+2025-01-05 18:49:49:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:49:51:INFO:---> Captcha TEXT: 1 8935 6
+2025-01-05 18:50:00:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 18:50:02:INFO:---> Vehicle Reg No is: ZWQ-51-312
+2025-01-05 18:50:10:INFO:---> Vehicle Driver CNIC is: 66155-2870207-5
+2025-01-05 18:50:16:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 18:50:16:INFO:--->  Add Trip form attachments added
+2025-01-05 18:50:20:INFO:--->  Add Trip from data saved
+2025-01-05 18:50:50:INFO:--->  Driver setup successfully
+2025-01-05 18:50:50:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:50:52:INFO:---> Captcha TEXT: 7760 90
+2025-01-05 18:51:00:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 18:51:03:INFO:---> Vehicle Reg No is: ZMM-94-787
+2025-01-05 18:51:10:INFO:---> Vehicle Driver CNIC is: 15966-3865226-6
+2025-01-05 18:51:17:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 18:51:17:INFO:--->  Add Trip form attachments added
+2025-01-05 18:51:20:INFO:--->  Add Trip from data saved
+2025-01-05 18:51:30:INFO:--->  Driver setup successfully
+2025-01-05 18:51:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 18:51:32:INFO:---> Captcha TEXT: 24164 9
+2025-01-05 18:51:34:INFO:--->  Login was successful
+2025-01-05 18:51:34:INFO:--->  Navigated to view trip page
+2025-01-05 18:51:42:INFO:--->  Driver Name matched successfully: Stephanie Olsen DVM
+2025-01-05 18:51:44:INFO:--->  Vehicle Reg no matched successfully: ZWQ-51-312
+2025-01-05 19:17:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:09:INFO:---> Captcha TEXT: 25 5 33
+2025-01-05 19:17:11:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:13:INFO:---> Captcha TEXT: 900003
+2025-01-05 19:17:21:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:22:INFO:---> Captcha TEXT: 17251 2
+2025-01-05 19:17:25:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:27:INFO:---> Captcha TEXT: 5905 8 5
+2025-01-05 19:17:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:32:INFO:---> Captcha TEXT: 039  0 94
+2025-01-05 19:17:40:INFO:--->  Driver setup successfully
+2025-01-05 19:17:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:42:INFO:---> Captcha TEXT: 673956 |
+2025-01-05 19:17:45:INFO:---> Captcha was incorrect
+2025-01-05 19:17:45:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:47:INFO:---> Captcha TEXT: 02100 -9
+2025-01-05 19:17:49:INFO:---> Captcha was incorrect
+2025-01-05 19:17:50:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:51:INFO:---> Captcha TEXT: 234620
+2025-01-05 19:17:53:INFO:---> Captcha was incorrect
+2025-01-05 19:17:54:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:17:55:INFO:---> Captcha TEXT: 90 8 6 1 7
+2025-01-05 19:18:04:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 19:18:06:INFO:---> Vehicle Reg No is: BQT-17-180
+2025-01-05 19:18:14:INFO:---> Vehicle Driver CNIC is: 72827-3824135-9
+2025-01-05 19:18:20:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 19:18:20:INFO:--->  Add Trip form attachments added
+2025-01-05 19:18:23:INFO:--->  Add Trip from data saved
+2025-01-05 19:18:32:INFO:--->  Driver setup successfully
+2025-01-05 19:18:32:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 19:18:34:INFO:---> Captcha TEXT: 758744
+2025-01-05 19:18:36:INFO:--->  Login was successful
+2025-01-05 19:18:36:INFO:--->  Navigated to view trip page
+2025-01-05 19:18:43:INFO:--->  Driver Name matched successfully: Janice Davis
+2025-01-05 19:18:45:INFO:--->  Vehicle Reg no matched successfully: ZMM-94-787
+2025-01-05 21:16:57:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:16:59:INFO:---> Captcha TEXT: 5430 5
+2025-01-05 21:17:01:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:17:03:INFO:---> Captcha TEXT: 423193
+2025-01-05 21:17:10:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:17:12:INFO:---> Captcha TEXT: 170670
+2025-01-05 21:17:15:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:17:17:INFO:---> Captcha TEXT: 95 2749
+2025-01-05 21:17:20:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:17:21:INFO:---> Captcha TEXT: 293730
+2025-01-05 21:17:30:INFO:--->  Driver setup successfully
+2025-01-05 21:17:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:17:32:INFO:---> Captcha TEXT: 9982 0
+2025-01-05 21:17:34:INFO:---> Captcha was incorrect
+2025-01-05 21:17:34:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:17:36:INFO:---> Captcha TEXT: 30490 1
+2025-01-05 21:17:44:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 21:17:46:INFO:---> Vehicle Reg No is: CVB-24-763
+2025-01-05 21:17:54:INFO:---> Vehicle Driver CNIC is: 94828-6432252-1
+2025-01-05 21:18:00:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 21:18:00:INFO:--->  Add Trip form attachments added
+2025-01-05 21:18:03:INFO:--->  Add Trip from data saved
+2025-01-05 21:18:12:INFO:--->  Driver setup successfully
+2025-01-05 21:18:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:18:14:INFO:---> Captcha TEXT: 85 5 16 7
+2025-01-05 21:18:16:INFO:--->  Login was successful
+2025-01-05 21:18:16:INFO:--->  Navigated to view trip page
+2025-01-05 21:18:23:INFO:--->  Driver Name matched successfully: Carla Lambert
+2025-01-05 21:18:26:INFO:--->  Vehicle Reg no matched successfully: BQT-17-180
+2025-01-05 21:20:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:20:05:INFO:---> Captcha TEXT: 036 9 9 5
+2025-01-05 21:20:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:20:14:INFO:---> Captcha TEXT: 8 9 100 8
+2025-01-05 21:20:17:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:20:19:INFO:---> Captcha TEXT: 5 72502
+2025-01-05 21:20:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:20:23:INFO:---> Captcha TEXT: 00 56 9 8
+2025-01-05 21:20:53:INFO:--->  Driver setup successfully
+2025-01-05 21:20:53:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:20:55:INFO:---> Captcha TEXT: 520 8 1 1
+2025-01-05 21:21:04:INFO:--->  Attempting to fill Add Trip form
+2025-01-05 21:21:06:INFO:---> Vehicle Reg No is: HEZ-51-592
+2025-01-05 21:21:13:INFO:---> Vehicle Driver CNIC is: 96621-8564935-5
+2025-01-05 21:21:20:INFO:--->  Add Trip form was filled without attachments
+2025-01-05 21:21:20:INFO:--->  Add Trip form attachments added
+2025-01-05 21:21:23:INFO:--->  Add Trip from data saved
+2025-01-05 21:21:32:INFO:--->  Driver setup successfully
+2025-01-05 21:21:32:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:21:34:INFO:---> Captcha TEXT: 24623
+2025-01-05 21:21:36:INFO:---> Captcha was incorrect
+2025-01-05 21:21:36:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-05 21:21:38:INFO:---> Captcha TEXT: 280186
+2025-01-05 21:21:40:INFO:--->  Login was successful
+2025-01-05 21:21:40:INFO:--->  Navigated to view trip page
+2025-01-05 21:21:48:INFO:--->  Driver Name matched successfully: Rhonda Elliott
+2025-01-05 21:21:50:INFO:--->  Vehicle Reg no matched successfully: CVB-24-763
+2025-01-06 10:32:30:INFO:--->  Driver setup successfully
+2025-01-06 10:32:30:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-06 10:32:33:INFO:---> Captcha TEXT: 712949
+2025-01-06 10:32:38:INFO:--->  Login was successful
+2025-01-06 10:32:38:INFO:--->  Navigated to view trip page
+2025-01-06 10:32:45:INFO:--->  Driver Name matched successfully: Sheri Cox
+2025-01-06 10:32:47:INFO:--->  Vehicle Reg no matched successfully: HEZ-51-592
+2025-01-06 10:41:03:INFO:--->  Driver setup successfully
+2025-01-06 10:41:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-06 10:41:05:INFO:---> Captcha TEXT: 5 07160
+2025-01-06 10:41:08:INFO:--->  Login was successful
+2025-01-06 10:41:08:INFO:--->  Navigated to view trip page
+2025-01-06 10:41:15:INFO:--->  Driver Name matched successfully: Sheri Cox
+2025-01-06 10:41:17:INFO:--->  Vehicle Reg no matched successfully: HEZ-51-592
+2025-01-23 13:24:28:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:24:31:INFO:---> Captcha TEXT: 4691 99
+2025-01-23 13:24:41:INFO:--->  Driver setup successfully
+2025-01-23 13:24:42:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:24:44:INFO:---> Captcha TEXT: 70 8
+2025-01-23 13:24:46:INFO:---> Captcha was incorrect
+2025-01-23 13:24:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:24:48:INFO:---> Captcha TEXT: 721544
+2025-01-23 13:24:59:INFO:--->  Driver setup successfully
+2025-01-23 13:24:59:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:25:01:INFO:---> Captcha TEXT: 445 722
+2025-01-23 13:25:04:INFO:--->  Login was successful
+2025-01-23 13:25:04:INFO:--->  Navigated to view trip page
+2025-01-23 13:26:53:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:26:55:INFO:---> Captcha TEXT: 034917
+2025-01-23 13:27:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:27:05:INFO:---> Captcha TEXT: 1683 8 6
+2025-01-23 13:27:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:27:09:INFO:---> Captcha TEXT: 90 '3 611
+2025-01-23 13:27:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:27:13:INFO:---> Captcha TEXT: 436009
+2025-01-23 13:27:16:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:27:18:INFO:---> Captcha TEXT: 16 6 453
+2025-01-23 13:27:23:INFO:--->  Driver setup successfully
+2025-01-23 13:27:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:27:25:INFO:---> Captcha TEXT: 9 6 141
+2025-01-23 13:27:28:INFO:---> Captcha was incorrect
+2025-01-23 13:27:28:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:27:30:INFO:---> Captcha TEXT: 309 227
+2025-01-23 13:27:39:INFO:--->  Attempting to fill Add Trip form
+2025-01-23 13:27:41:INFO:---> Vehicle Reg No is: QVH-42-974
+2025-01-23 13:27:49:INFO:---> Vehicle Driver CNIC is: 51742-4362092-4
+2025-01-23 13:27:55:INFO:--->  Add Trip form was filled without attachments
+2025-01-23 13:27:55:INFO:--->  Add Trip form attachments added
+2025-01-23 13:27:59:INFO:--->  Add Trip from data saved
+2025-01-23 13:28:02:INFO:--->  Driver setup successfully
+2025-01-23 13:28:05:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:28:06:INFO:---> Captcha TEXT: 9 145
+2025-01-23 13:28:08:INFO:---> Captcha was incorrect
+2025-01-23 13:28:09:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 13:28:10:INFO:---> Captcha TEXT: 680 125
+2025-01-23 13:28:12:INFO:--->  Login was successful
+2025-01-23 13:28:13:INFO:--->  Navigated to view trip page
+2025-01-23 14:26:38:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:26:40:INFO:---> Captcha TEXT: 8044270
+2025-01-23 14:26:42:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:26:44:INFO:---> Captcha TEXT: 14508 1
+2025-01-23 14:26:52:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:26:53:INFO:---> Captcha TEXT: 627770
+2025-01-23 14:26:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:26:58:INFO:---> Captcha TEXT: 012974
+2025-01-23 14:27:01:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:27:03:INFO:---> Captcha TEXT: 75305 7
+2025-01-23 14:27:08:INFO:--->  Driver setup successfully
+2025-01-23 14:27:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:27:10:INFO:---> Captcha TEXT: 72051
+2025-01-23 14:27:12:INFO:---> Captcha was incorrect
+2025-01-23 14:27:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:27:14:INFO:---> Captcha TEXT: 371 5 3
+2025-01-23 14:27:17:INFO:---> Captcha was incorrect
+2025-01-23 14:27:17:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:27:19:INFO:---> Captcha TEXT: 5 93531
+2025-01-23 14:27:27:INFO:--->  Attempting to fill Add Trip form
+2025-01-23 14:27:30:INFO:---> Vehicle Reg No is: HXC-52-529
+2025-01-23 14:27:38:INFO:---> Vehicle Driver CNIC is: 25013-3353240-0
+2025-01-23 14:27:44:INFO:--->  Add Trip form was filled without attachments
+2025-01-23 14:27:44:INFO:--->  Add Trip form attachments added
+2025-01-23 14:27:47:INFO:--->  Add Trip from data saved
+2025-01-23 14:27:52:INFO:--->  Driver setup successfully
+2025-01-23 14:27:52:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-23 14:27:54:INFO:---> Captcha TEXT: 920220
+2025-01-23 14:27:57:INFO:--->  Login was successful
+2025-01-23 14:27:57:INFO:--->  Navigated to view trip page
+2025-01-23 14:28:04:INFO:--->  Driver Name matched successfully: Patrick Tyler
+2025-01-23 14:28:06:INFO:--->  Vehicle Reg no matched successfully: QVH-42-974
+2025-01-27 15:23:02:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-27 15:23:05:INFO:---> Captcha TEXT: 8 58082
+2025-01-27 15:24:56:INFO:--->  Driver setup successfully
+2025-01-27 15:24:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-27 15:24:58:INFO:---> Captcha TEXT: 439 86 0
+2025-01-27 15:25:07:INFO:--->  Attempting to fill Add Trip form
+2025-01-27 15:25:11:INFO:--->  Driver setup successfully
+2025-01-28 12:15:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:15:10:INFO:---> Captcha TEXT: 03283 8
+2025-01-28 12:15:17:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:15:19:INFO:---> Captcha TEXT: 3220 7 6
+2025-01-28 12:15:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:15:24:INFO:---> Captcha TEXT: 610708
+2025-01-28 12:15:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:15:28:INFO:---> Captcha TEXT: 470694
+2025-01-28 12:15:34:INFO:--->  Driver setup successfully
+2025-01-28 12:15:34:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:15:36:INFO:---> Captcha TEXT: 5 87 51
+2025-01-28 12:15:38:INFO:---> Captcha was incorrect
+2025-01-28 12:15:38:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:15:40:INFO:---> Captcha TEXT: 415233
+2025-01-28 12:15:48:INFO:--->  Attempting to fill Add Trip form
+2025-01-28 12:15:50:INFO:---> Vehicle Reg No is: AXH-35-647
+2025-01-28 12:15:58:INFO:---> Vehicle Driver CNIC is: 69690-1079815-6
+2025-01-28 12:16:04:INFO:--->  Add Trip form was filled without attachments
+2025-01-28 12:16:05:INFO:--->  Add Trip form attachments added
+2025-01-28 12:16:08:INFO:--->  Add Trip from data saved
+2025-01-28 12:16:13:INFO:--->  Driver setup successfully
+2025-01-28 12:16:14:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:16:15:INFO:---> Captcha TEXT: 76 7679
+2025-01-28 12:16:18:INFO:--->  Login was successful
+2025-01-28 12:16:18:INFO:--->  Navigated to view trip page
+2025-01-28 12:26:50:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:26:52:INFO:---> Captcha TEXT: 9 1 5472
+2025-01-28 12:26:59:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:27:01:INFO:---> Captcha TEXT: 39 4"9 38
+2025-01-28 12:27:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:27:05:INFO:---> Captcha TEXT: 145 0 42
+2025-01-28 12:27:07:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:27:09:INFO:---> Captcha TEXT: 43981 6
+2025-01-28 12:27:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:27:14:INFO:---> Captcha TEXT: 042"3 63
+2025-01-28 12:27:16:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:27:18:INFO:---> Captcha TEXT: 442189
+2025-01-28 12:27:24:INFO:--->  Driver setup successfully
+2025-01-28 12:27:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:27:26:INFO:---> Captcha TEXT: 2618 26
+2025-01-28 12:27:35:INFO:--->  Attempting to fill Add Trip form
+2025-01-28 12:27:37:INFO:---> Vehicle Reg No is: ZOR-21-674
+2025-01-28 12:27:45:INFO:---> DRIVER NAME is: Jonathan Santana
+2025-01-28 12:27:45:INFO:---> Vehicle Driver CNIC is: 76373-7568457-5
+2025-01-28 12:27:51:INFO:--->  Add Trip form was filled without attachments
+2025-01-28 12:27:51:INFO:--->  Add Trip form attachments added
+2025-01-28 12:27:54:INFO:--->  Add Trip from data saved
+2025-01-28 12:27:59:INFO:--->  Driver setup successfully
+2025-01-28 12:27:59:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:28:01:INFO:---> Captcha TEXT: 25475
+2025-01-28 12:28:04:INFO:---> Captcha was incorrect
+2025-01-28 12:28:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:28:06:INFO:---> Captcha TEXT: 288 0 8
+2025-01-28 12:28:08:INFO:---> Captcha was incorrect
+2025-01-28 12:28:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:28:10:INFO:---> Captcha TEXT: 740 90 1
+2025-01-28 12:28:12:INFO:--->  Login was successful
+2025-01-28 12:28:12:INFO:--->  Navigated to view trip page
+2025-01-28 12:30:51:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:30:53:INFO:---> Captcha TEXT: 4760177
+2025-01-28 12:30:55:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:30:57:INFO:---> Captcha TEXT: 614817
+2025-01-28 12:31:04:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:31:06:INFO:---> Captcha TEXT: 701048
+2025-01-28 12:31:09:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:31:11:INFO:---> Captcha TEXT: 026366
+2025-01-28 12:31:14:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:31:16:INFO:---> Captcha TEXT: 044770
+2025-01-28 12:31:24:INFO:--->  Driver setup successfully
+2025-01-28 12:31:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:31:26:INFO:---> Captcha TEXT: 96 331 0
+2025-01-28 12:31:28:INFO:--->  Login was successful
+2025-01-28 12:31:29:INFO:--->  Navigated to view trip page
+2025-01-28 12:32:43:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:32:45:INFO:---> Captcha TEXT: 3 649 89
+2025-01-28 12:32:52:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:32:54:INFO:---> Captcha TEXT: 8 `8 7_363
+2025-01-28 12:32:56:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:32:58:INFO:---> Captcha TEXT: 339 1 56
+2025-01-28 12:33:01:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:33:02:INFO:---> Captcha TEXT: 3431 5 9
+2025-01-28 12:33:05:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:33:07:INFO:---> Captcha TEXT: 008255
+2025-01-28 12:33:13:INFO:--->  Driver setup successfully
+2025-01-28 12:33:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:33:15:INFO:---> Captcha TEXT: 240 78 8
+2025-01-28 12:33:23:INFO:--->  Attempting to fill Add Trip form
+2025-01-28 12:33:25:INFO:---> Vehicle Reg No is: DWM-49-021
+2025-01-28 12:33:33:INFO:---> DRIVER NAME is: Ronald Randall
+2025-01-28 12:33:33:INFO:---> Vehicle Driver CNIC is: 41288-5213323-3
+2025-01-28 12:33:39:INFO:--->  Add Trip form was filled without attachments
+2025-01-28 12:33:39:INFO:--->  Add Trip form attachments added
+2025-01-28 12:33:42:INFO:--->  Add Trip from data saved
+2025-01-28 12:33:48:INFO:--->  Driver setup successfully
+2025-01-28 12:33:48:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:33:50:INFO:---> Captcha TEXT: 8904 30
+2025-01-28 12:33:52:INFO:--->  Login was successful
+2025-01-28 12:33:53:INFO:--->  Navigated to view trip page
+2025-01-28 12:34:59:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:35:01:INFO:---> Captcha TEXT: 942434
+2025-01-28 12:35:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:35:10:INFO:---> Captcha TEXT: 337117
+2025-01-28 12:35:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:35:15:INFO:---> Captcha TEXT: 8 " 1 305 3
+2025-01-28 12:35:17:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:35:19:INFO:---> Captcha TEXT: 63983
+2025-01-28 12:35:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:35:23:INFO:---> Captcha TEXT: 446770
+2025-01-28 12:35:29:INFO:--->  Driver setup successfully
+2025-01-28 12:35:29:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:35:31:INFO:---> Captcha TEXT: 120732
+2025-01-28 12:35:40:INFO:--->  Attempting to fill Add Trip form
+2025-01-28 12:35:42:INFO:---> Vehicle Reg No is: LIP-42-473
+2025-01-28 12:35:50:INFO:---> DRIVER NAME is: Marisa Perez
+2025-01-28 12:35:50:INFO:---> Vehicle Driver CNIC is: 43932-3229964-6
+2025-01-28 12:35:56:INFO:--->  Add Trip form was filled without attachments
+2025-01-28 12:35:56:INFO:--->  Add Trip form attachments added
+2025-01-28 12:36:00:INFO:--->  Add Trip from data saved
+2025-01-28 12:36:05:INFO:--->  Driver setup successfully
+2025-01-28 12:36:05:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:36:07:INFO:---> Captcha TEXT: 014222
+2025-01-28 12:36:09:INFO:--->  Login was successful
+2025-01-28 12:36:09:INFO:--->  Navigated to view trip page
+2025-01-28 12:38:11:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:38:13:INFO:---> Captcha TEXT: 220 8 9
+2025-01-28 12:38:15:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:38:17:INFO:---> Captcha TEXT: 333326
+2025-01-28 12:38:25:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:38:27:INFO:---> Captcha TEXT: 853471
+2025-01-28 12:38:29:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:38:31:INFO:---> Captcha TEXT: 413212
+2025-01-28 12:38:34:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:38:35:INFO:---> Captcha TEXT: 4969 30
+2025-01-28 12:38:41:INFO:--->  Driver setup successfully
+2025-01-28 12:38:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:38:43:INFO:---> Captcha TEXT: 8 8 5 9
+2025-01-28 12:38:45:INFO:---> Captcha was incorrect
+2025-01-28 12:38:46:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:38:47:INFO:---> Captcha TEXT: 39 9742
+2025-01-28 12:38:56:INFO:--->  Attempting to fill Add Trip form
+2025-01-28 12:38:58:INFO:---> Vehicle Reg No is: WES-10-540
+2025-01-28 12:39:06:INFO:---> DRIVER NAME is: Christopher Francis
+2025-01-28 12:39:06:INFO:---> Vehicle Driver CNIC is: 92209-8680666-7
+2025-01-28 12:39:12:INFO:--->  Add Trip form was filled without attachments
+2025-01-28 12:39:12:INFO:--->  Add Trip form attachments added
+2025-01-28 12:39:15:INFO:--->  Add Trip from data saved
+2025-01-28 12:39:20:INFO:--->  Driver setup successfully
+2025-01-28 12:39:20:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:39:22:INFO:---> Captcha TEXT: 138 94
+2025-01-28 12:39:24:INFO:---> Captcha was incorrect
+2025-01-28 12:39:24:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-28 12:39:26:INFO:---> Captcha TEXT: 3 541 9 3
+2025-01-28 12:39:28:INFO:--->  Login was successful
+2025-01-28 12:39:28:INFO:--->  Navigated to view trip page
+2025-01-28 12:39:36:INFO:--->  Driver Name matched successfully: Marisa Perez
+2025-01-28 12:39:38:INFO:--->  Vehicle Reg no matched successfully: LIP-42-473
+2025-01-29 09:46:22:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:46:25:INFO:---> Captcha TEXT: 438 40
+2025-01-29 09:46:27:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:46:29:INFO:---> Captcha TEXT: 263253
+2025-01-29 09:46:36:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:46:39:INFO:---> Captcha TEXT: 9322 6
+2025-01-29 09:46:41:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:46:43:INFO:---> Captcha TEXT: 66947 ,4
+2025-01-29 09:46:45:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:46:47:INFO:---> Captcha TEXT: 4429 7
+2025-01-29 09:46:50:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:46:51:INFO:---> Captcha TEXT: 514259 
+2025-01-29 09:46:54:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:46:57:INFO:---> Captcha TEXT: 112375
+2025-01-29 09:47:00:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:47:02:INFO:---> Captcha TEXT: 779192
+2025-01-29 09:47:08:INFO:--->  Driver setup successfully
+2025-01-29 09:47:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:47:10:INFO:---> Captcha TEXT: 0 6 2 9 34
+2025-01-29 09:47:19:INFO:--->  Attempting to fill Add Trip form
+2025-01-29 09:47:21:INFO:---> Vehicle Reg No is: VIX-84-646
+2025-01-29 09:47:29:INFO:---> DRIVER NAME is: Seth Harrison
+2025-01-29 09:47:30:INFO:---> Vehicle Driver CNIC is: 29404-6236140-2
+2025-01-29 09:47:36:INFO:--->  Driver setup successfully
+2025-01-29 09:47:36:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 09:47:38:INFO:---> Captcha TEXT: 3 49300
+2025-01-29 09:47:40:INFO:--->  Login was successful
+2025-01-29 09:47:41:INFO:--->  Navigated to view trip page
+2025-01-29 09:47:48:INFO:--->  Driver Name matched successfully: Christopher Francis
+2025-01-29 09:47:50:INFO:--->  Vehicle Reg no matched successfully: WES-10-540
+2025-01-29 10:03:02:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:03:04:INFO:---> Captcha TEXT: 132196
+2025-01-29 10:03:12:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:03:13:INFO:---> Captcha TEXT: 217403
+2025-01-29 10:03:16:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:03:18:INFO:---> Captcha TEXT: 173305
+2025-01-29 10:03:21:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:03:23:INFO:---> Captcha TEXT: 35 690 4
+2025-01-29 10:03:28:INFO:--->  Driver setup successfully
+2025-01-29 10:03:28:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:03:30:INFO:---> Captcha TEXT: 490 974
+2025-01-29 10:03:39:INFO:--->  Attempting to fill Add Trip form
+2025-01-29 10:03:41:INFO:---> Vehicle Reg No is: IYC-81-083
+2025-01-29 10:03:49:INFO:---> DRIVER NAME is: Jacob Roy
+2025-01-29 10:03:49:INFO:---> Vehicle Driver CNIC is: 60552-2363272-0
+2025-01-29 10:03:55:INFO:--->  Add Trip form was filled without attachments
+2025-01-29 10:03:55:INFO:--->  Add Trip form attachments added
+2025-01-29 10:03:58:INFO:--->  Add Trip from data saved
+2025-01-29 10:04:03:INFO:--->  Driver setup successfully
+2025-01-29 10:04:03:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:04:05:INFO:---> Captcha TEXT: 10 5 90 86
+2025-01-29 10:04:07:INFO:---> Captcha was incorrect
+2025-01-29 10:04:08:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:04:09:INFO:---> Captcha TEXT: 40066 0
+2025-01-29 10:04:12:INFO:--->  Login was successful
+2025-01-29 10:04:12:INFO:--->  Navigated to view trip page
+2025-01-29 10:17:47:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:17:48:INFO:---> Captcha TEXT: 981468
+2025-01-29 10:17:55:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:17:57:INFO:---> Captcha TEXT: 07535 1
+2025-01-29 10:18:00:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:18:02:INFO:---> Captcha TEXT: 335 353
+2025-01-29 10:18:05:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:18:07:INFO:---> Captcha TEXT: 250 56 7
+2025-01-29 10:18:12:INFO:--->  Driver setup successfully
+2025-01-29 10:18:13:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:18:14:INFO:---> Captcha TEXT: 4953 51
+2025-01-29 10:18:23:INFO:--->  Attempting to fill Add Trip form
+2025-01-29 10:18:25:INFO:---> Vehicle Reg No is: UXH-60-238
+2025-01-29 10:18:33:INFO:---> DRIVER NAME is: William Jones
+2025-01-29 10:18:33:INFO:---> Vehicle Driver CNIC is: 37045-8971866-8
+2025-01-29 10:18:39:INFO:--->  Add Trip form was filled without attachments
+2025-01-29 10:18:39:INFO:--->  Add Trip form attachments added
+2025-01-29 10:18:42:INFO:--->  Add Trip from data saved
+2025-01-29 10:18:47:INFO:--->  Driver setup successfully
+2025-01-29 10:18:48:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:18:49:INFO:---> Captcha TEXT: 5 1 849
+2025-01-29 10:18:52:INFO:---> Captcha was incorrect
+2025-01-29 10:18:52:WARNING:Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-01-29 10:18:54:INFO:---> Captcha TEXT: 258984
+2025-01-29 10:18:56:INFO:--->  Login was successful
+2025-01-29 10:18:56:INFO:--->  Navigated to view trip page
+2025-01-29 10:19:09:INFO:--->  Driver Name matched successfully: Jacob Roy
+2025-01-29 10:19:11:INFO:--->  Vehicle Reg no matched successfully: IYC-81-083
